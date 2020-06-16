@@ -1,0 +1,109 @@
+header {
+    margin: 20px auto;
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    text-align: center;
+}
+
+header span {
+    height: 130px;
+    width: 380px;
+    border-radius: 8px;
+
+    background-color: #ffbb31;
+}
+
+main {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+}
+
+main p {
+    text-align: center;
+
+    font-size: larger;
+    font-weight: 500;
+    width: 600px;
+}
+
+body .links {
+    display: flex;
+
+    justify-content: center;
+}
+
+body .links .internet a {
+    display: flex;
+    margin: 30px 20px;
+
+    text-align: center;
+}
+
+body .links .internet span {
+    height: 40px;
+    width: 100px;
+    border-radius: 8px;
+
+    background-color: #ffbb31;
+}
+
+body .links .linguagem-html a {
+    display: flex;
+    margin: 30px 20px;
+
+    text-align: center;
+}
+
+body .links .linguagem-html span {
+    height: 40px;
+    width: 100px;
+    border-radius: 8px;
+
+    background-color: #ffbb31;
+}
+
+body .links .linguagem-css a {
+    display: flex;
+    margin: 30px 20px;
+
+    text-align: center;
+}
+
+body .links .linguagem-css span {
+    height: 40px;
+    width: 100px;
+    border-radius: 8px;
+
+    background-color: #ffbb31;
+}
+
+body .links .linguagem-js a {
+    display: flex;
+    margin: 30px 20px;
+
+    text-align: center;
+}
+
+body .links .linguagem-js span {
+    height: 40px;
+    width: 100px;
+    border-radius: 8px;
+
+    background-color: #ffbb31;
+}
+
+body div.image {
+    background: url(../icones/274407-coding.png) no-repeat;
+
+    display: flex;
+    height: 55vh;
+    background-position: center;
+
+    align-items: center;
+}

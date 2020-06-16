@@ -1,0 +1,18 @@
+:root {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+html {
+    background-color: #f0f0f5;
+}
+
+a {
+    color: rgb(7, 7, 32);
+    text-decoration: none;
+
+    font-weight: 700;
+}
+
+body {
+    margin: auto;
+}
