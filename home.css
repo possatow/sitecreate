@@ -99,7 +99,7 @@ body .links .linguagem-js span {
 }
 
 body div.image {
-    background: url(..274407-coding.png/) no-repeat;
+    background: url(../274407-coding.png) no-repeat;
 
     display: flex;
     height: 55vh;
